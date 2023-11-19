@@ -4,7 +4,7 @@ Embark on a thrilling underwater adventure with Sea Eldorado, a captivating expl
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/sea-eldorado/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/sea-eldorado/) 🕹️
 
 ## About the Game
 
